@@ -8,6 +8,15 @@ namespace ProjectWorkGruppo4
 {
     internal class Impiegato
     {
-        
+        int idImpiegato;
+        string nome;
+        string cognome;
+        DateTime dataAssunzione;
+        string email;
+        string mansione;
+        int numeroAumenti;
+        string nominativoManager;
+        string nomeDipartimento;
+        string indirizzoDipartimento;
     }
 }
